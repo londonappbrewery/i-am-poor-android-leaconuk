@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">Shudh Gareeb !</string>
+    <string name="content">I am poor</string>
+    <string name="contenting">Recognised by Govt. of India</string>
+    <string name="textview">TextView</string>
 </resources>
